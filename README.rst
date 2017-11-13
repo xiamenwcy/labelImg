@@ -29,7 +29,9 @@ Download prebuilt binaries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `Windows & Linux <https://tzutalin.github.io/labelImg/>`__  
+
    The  windows_v1.5.2  can be downloaded from this link: http://ow680yzep.bkt.clouddn.com/windows_v1.5.2.zip
+   
 -  macOS. Binaries for macOS are not yet available. Help would be appreciated. At present, it must be `built from source <#macos>`__.
 
 Build from source
