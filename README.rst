@@ -20,7 +20,7 @@ by `ImageNet <http://www.image-net.org/>`__.
 .. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
      :alt: Demo Image
 
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
+`Watch a demo video <http://ow680yzep.bkt.clouddn.com/Label%20and%20annotate%20images.mp4>`__
 
 Installation
 ------------------
@@ -28,8 +28,8 @@ Installation
 Download prebuilt binaries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `Windows & Linux <https://tzutalin.github.io/labelImg/>`__
-
+-  `Windows & Linux <https://tzutalin.github.io/labelImg/>`__  
+   The  windows_v1.5.2  can be downloaded from this link: http://ow680yzep.bkt.clouddn.com/windows_v1.5.2.zip
 -  macOS. Binaries for macOS are not yet available. Help would be appreciated. At present, it must be `built from source <#macos>`__.
 
 Build from source
