@@ -20,8 +20,10 @@ by `ImageNet <http://www.image-net.org/>`__.
 .. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
      :alt: Demo Image
 
-`Watch a demo video <http://ow680yzep.bkt.clouddn.com/Label%20and%20annotate%20images.mp4>`__
-
+`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
+ 
+If you cannot play ,you can download it from : <http://ow680yzep.bkt.clouddn.com/Label%20and%20annotate%20images.mp4>
+   
 Installation
 ------------------
 
